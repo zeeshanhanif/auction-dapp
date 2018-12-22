@@ -1,2 +1,2 @@
-# auction-dapp
+# Auction DApp
 Blockchain based Auction Dapp
